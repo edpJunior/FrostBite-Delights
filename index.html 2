@@ -1,0 +1,88 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frostbite Delights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f8ff;
+            text-align: center;
+        }
+        header {
+            background-color: #00aaff;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .logo {
+            width: 300px;
+            margin-top: 10px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .deal {
+            font-weight: bold;
+            color: #ff4500;
+            font-size: 20px;
+        }
+        .pricing {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .contact {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #00aaff;
+            color: white;
+            font-size: 18px;
+        }
+        .contact a {
+            color: #ffdd57;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="Pink & Blue Futuristic Gaming Channel Youtube Intro.jpg" alt="Frostbite Delights Logo" class="logo">
+        <div>Frostbite Delights - The Coolest Snow Cones in School!</div>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Welcome to Frostbite Delights! We serve delicious and refreshing snow cones right in the school gym, making it the perfect treat for students looking to cool down and enjoy unique flavors.</p>
+        
+        <h2>What We Offer</h2>
+        <ul>
+            <li>Variety of flavors</li>
+            <li>Premium ingredients like Nerds, Pop Rocks, gummy worms, and gummy bears</li>
+            <li>A fun and nostalgic experience</li>
+        </ul>
+        
+        <h2 class="deal">🔥 Current Deal: Buy 1 Get 1 Half Off! 🔥</h2>
+        
+        <div class="pricing">
+            <h2>Pricing</h2>
+            <p>🍧 Snow Cones: $1.25</p>
+            <p>🥤 Cups: $2.25</p>
+            <p>🍬 Premium Ingredients: $0.50 each</p>
+        </div>
+        
+        <h2>Marketing</h2>
+        <p>We use Instagram to promote our snow cones and keep our customers updated. Follow us for exclusive deals and flavors!</p>
+    </div>
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>📩 Follow us on Instagram: <a href="https://www.instagram.com/frostbite_delights3de" target="_blank">@frostbite_delights3de</a></p>
+    </div>
+</body>
+</html>
